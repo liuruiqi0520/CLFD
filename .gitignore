@@ -98,3 +98,4 @@ generated
 val_permutations
 result/json/
 result/weights/
+.idea/
